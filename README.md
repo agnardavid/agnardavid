@@ -6,6 +6,9 @@ as well as a diploma in the same field from Studio Syrland in Reykjavik. I becam
 
 On github I'll be keeping a history of my projects as I progress through the steep learning curve.
 
+
 My current projects are as follows (some may not have been released yet on github):
+
 Darts competition app
+
 Digitalization of my current workplace using Python's various modules with Excel, Word, PDF and the AWS S3 Storage.
