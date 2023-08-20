@@ -9,10 +9,10 @@ On GitHub, I'll be keeping a history of my projects as I progress through the st
 
 My current projects are as follows (some may not have been released yet on GitHub):
 
-ExtLab - A file conversion app for Windows made using Python and Tkinter (Not on GitHub)
+* ExtLab - A file conversion app for Windows made using Python and Tkinter (Not on GitHub)
 
 
 Previous projects:
-* Curb-E - Self-driving robot prototype with a DC motor, a stepper motor, and an RGB sensor (Not on GitHub)
+* Curb-E - Self-driving robot prototype with a DC motor, a stepper motor, and an RGB sensor using CircuitPython (Not on GitHub)
 * Darts competition app
 * Digitalization of my current workplace using conversion between Excel, Word, PDF, and an upload to the AWS S3 Storage.
